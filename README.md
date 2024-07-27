@@ -1,8 +1,9 @@
 ## Привет 👋
-Меня зовут Камила, я начинающий QA Engineer. Мне нравится изучать тестирование ПО и практиковаться в нем.
+Меня зовут Камила, я начинающий QA Engineer. 
+Мне нравится изучать тестирование и применять знания на практике.
 
 ## 📊 Статистика
-
+Немного статистики о коммитах в проектах и используемых языках:
 ![](https://github-readme-stats.vercel.app/api?hide_rank=true&hide=issues,contribs&show_icons=true&locale=en&langs_count=8&card_width=320&username=ValievaKamila)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?layout=donut&langs_count=6&hide_progress=true&username=ValievaKamila)
 
