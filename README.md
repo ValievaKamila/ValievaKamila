@@ -78,7 +78,7 @@
 
 <br>
 
-## 🪴 Практика и стажировка
+## Практика и стажировка
 [<img src="/stepik.png" width="280px" hspace="10px" alt="Сертификат от степика»">](https://raw.githubusercontent.com/ValievaKamila/ValievaKamila/main/stepik-certificate-1.png)
 
 <br>
