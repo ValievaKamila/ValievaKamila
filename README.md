@@ -79,11 +79,12 @@
 <br>
 
 ## Практика и стажировка
-[<img src="/stepik-certificate-1.png" width="280px" hspace="10px" alt="Сертификат от степика»">](https://raw.githubusercontent.com/ValievaKamila/ValievaKamila/main/stepik-certificate-1.png)
+(https://raw.githubusercontent.com/ValievaKamila/ValievaKamila/main/stepik-certificate-1.png)
 [<img src="/sert.png" width="280px" hspace="10px" alt="Сертификат от степика»">](https://raw.githubusercontent.com/ValievaKamila/ValievaKamila/main/sert.png)
 [<img src="/pril.png" width="280px" hspace="10px" alt="Сертификат от степика»">](https://raw.githubusercontent.com/ValievaKamila/ValievaKamila/main/pril.png)
 <br>
-
+[<img src="/stepik-certificate-1.png" width="280px" hspace="10px" alt="Сертификат от степика»">]
+<br>
 ## 🎒 Образование
 [<img src="/diplom.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/ValievaKamila/ValievaKamila/main/diplom.png)
 [<img src="/diplom_eng.png" width="280px" hspace="10px" alt="Диплом на английском языке»">](https://raw.githubusercontent.com/ValievaKamila/ValievaKamila/main/diplom_eng.png)
