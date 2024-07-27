@@ -93,6 +93,4 @@
 ## 🤝 Контакт
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/KamilaValieva)
 
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ValievaKamila&repo=github-readme-stats)](https://github.com/ValievaKamila/github-readme-stats)
 <!-- Документация по виджету контактов ↑↑ https://shields.io/badges --> 
