@@ -80,7 +80,8 @@
 
 ## Практика и стажировка
 [<img src="/stepik-certificate-1.png" width="280px" hspace="10px" alt="Сертификат от степика»">](https://raw.githubusercontent.com/ValievaKamila/ValievaKamila/main/stepik-certificate-1.png)
-
+[<img src="/sert.png" width="280px" hspace="10px" alt="Сертификат от степика»">](https://raw.githubusercontent.com/ValievaKamila/ValievaKamila/main/sert.png)
+[<img src="/pril.png" width="280px" hspace="10px" alt="Сертификат от степика»">](https://raw.githubusercontent.com/ValievaKamila/ValievaKamila/main/pril.png)
 <br>
 
 ## 🎒 Образование
